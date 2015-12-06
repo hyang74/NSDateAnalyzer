@@ -19,7 +19,7 @@ Melvin Rivera, melvin@allforces.com.(<code>AFDateHelper</code>)
 
 Alex Leite.(<code>NSDateExtension</code>)
 
-Jerry Fengwei Zhang(zhang96), codingjerry@gmail.com.(<code>NSDateAnalyzer</code>)
+Jerry Fengwei Zhang(zhang96), [codingjerry@gmail.com](mailto:codingjerry@gmail.com).(<code>NSDateAnalyzer</code>)
 
 ##How to use
 
